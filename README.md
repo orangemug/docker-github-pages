@@ -1,6 +1,8 @@
 # docker-github-pages
 A docker image for [github-pages](https://github.com/github/pages-gem) for super simple setup
 
+The docker hub repo lives at <https://hub.docker.com/r/orangemug/github-pages>
+
 
 
 ## Install
